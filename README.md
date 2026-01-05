@@ -28,3 +28,4 @@ Currently an intern at Codec Technologies
 
 ## 📫 Contact
 - GitHub: https://github.com/shreyac395
+- linkedln: https://www.linkedin.com/in/shreya-chavan-611aa12a3 
