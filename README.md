@@ -4,8 +4,7 @@ Electronics & Telecommunication undergraduate focused on Digital Electronics, VL
 Currently an intern at Codec Technologies 
 
 ## 👩‍💻 About Me
-- 3rd Year B.E. Electronics & Telecommunication student
-- Intern at Codec Technologies (Digital Electronics & VLSI)
+- final Year B.E. Electronics & Telecommunication student
 - Interested in Digital Design and hardware-based projects
 
 ## 🛠️ Technical Skills
